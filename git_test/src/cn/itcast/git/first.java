@@ -8,4 +8,8 @@ public class first {
 
 
     }
+    public void test(){
+        int i = 0 ;
+        i+=10;
+    }
 }
